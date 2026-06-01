@@ -1,0 +1,24 @@
+{
+  "name": "eccomerce",
+  "version": "1.0.0",
+  "description": "",
+  "main": "conexion.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GustavoDome/Eccomerce.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GustavoDome/Eccomerce/issues"
+  },
+  "homepage": "https://github.com/GustavoDome/Eccomerce#readme",
+  "dependencies": {
+    "@neondatabase/serverless": "^1.1.0",
+    "dotenv": "^17.4.2"
+  }
+}
